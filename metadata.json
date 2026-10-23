@@ -1,0 +1,10 @@
+{
+  "name": "Vivek AI - Personal Assistant",
+  "description": "Intelligent, empathetic multilingual AI assistant with natural voice, proactive memory, task automation, and ready-to-build Android APK pipeline.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
