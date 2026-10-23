@@ -23,7 +23,7 @@ jobs:
           cache: gradle
 
       - name: Grant Execute Permission for Gradlew
-        run: chmod +x gradlew
+        run: cd android && chmod +x gradlew
 
       - name: Ensure Valid Gradle Wrapper Jar
         run: |
